@@ -1,0 +1,404 @@
+job_id,company_id,designation,location,state ,company_name,details_id
+J001,C001,Data Analyst For 5 Day Working USA MNC In Gurgaon Near Metro,Gurgaon, Haryana,Capital Placement Services Gurgaon .,D001
+J002,C002,Zoomcar - Program Manager - Process Excellence,Bengaluru, Karnataka,Zoomcar,D002
+J003,C003,Data Analyst (OpEx Engineering),Mumbai, Maharashtra,Fynd (Shopsense Retail Technologies Ltd.),D003
+J004,C004,UCC Quality Monitoring Developer/Analyst,Bengaluru, Karnataka,Bosch Global Software Technologies,D004
+J005,C005,Associate Systems Analyst,Pune, Maharashtra,Allscripts India,D005
+J006,C006,Associate Data Analyst_Energy Domain( Pune),Pune, Maharashtra,Energy Exemplar,D006
+J007,C008,Lead Data Analyst,Hyderabad, Telangana,Providence India,D007
+J008,C010,Data Science,Chennai, Tamil Nadu,Mr. Cooper,D008
+J009,C011,Shift in-Charge,Chandigarh, Chandigarh,T & A Solutions,D009
+J010,C013,Analyst-Application Support Analyst,Gurgaon, Haryana,Sun Life,D010
+J011,C014,Open Source Evangelist - Remote,Bengaluru South, Karnataka,Jina AI,D011
+J012,C015,Data Engineering,Bengaluru, Karnataka,Embibe,D012
+J013,C016,Agile architect (architecture and engineering),Mumbai, Maharashtra,CSB Bank Limited,D013
+J014,C017,Seekers Post for___ Business Analyst,Gurgaon, Haryana,The Luxury Closet,D014
+J015,C018,Civil Engineering Intern Internship in Delhi at Onsite,Delhi, Delhi,Onsite,D015
+J016,C019,Senior Associate - Interest Rate Risk in Banking Books,Gurgaon, Haryana,Macquarie Group,D016
+J017,C020,"Data Analyst (SQL, PowerBI)",Gurgaon, Haryana,TMF Group,D017
+J018,C021,Associate Analyst 2/CSR,Bengaluru, Karnataka,Moody's Corporation,D018
+J019,C022,Data Analyst,Bengaluru, Karnataka,Skan.ai,D019
+J020,C023,GAT -EPT,Pune, Maharashtra,Mahindra Group,D020
+J021,C021,Data Operations Associate,Gurgaon, Haryana,Moody's Corporation,D021
+J022,C024,Python Developer,Kolkata, West Bengal,Prodapt,D022
+J023,C025,Principal Engineer-Verification,Chennai, Tamil Nadu,Microchip Technology Inc.,D023
+J024,C026,Instrumentation and Control Engineering Internship in Mumbai at Zeeco India,Mumbai, Maharashtra,Zeeco India,D024
+J025,C027,System Administrator,Bengaluru, Karnataka,DNEG,D025
+J026,C028,"Civil Engineering Internship in Delhi, Noida at Water Management And Plumbing Skill Council",Delhi, Delhi,Water Management & Plumbing Skill Council,D026
+J027,C029,Business Analyst - API,,,Plivo,D027
+J028,C030,Python Developer | Python and D-Jango | Exp 1Year | Mumbai,Mumbai, Maharashtra,Rentokil Initial,D028
+J029,C007,Engineer - Storage,Bengaluru, Karnataka,Target,D029
+J030,C031,Data Scientist (Python Experience Is Mandatory),Delhi, Delhi,Blox.xyz,D030
+J031,C032,Reporting Analyst,Mumbai, Maharashtra,Indicia Worldwide,D031
+J032,C033,Data Scientist,Bengaluru, Karnataka,HuntingCube Recruitment Solutions,D032
+J033,C034,Sr. Analyst Manufacturing Data Analytics-India,Bengaluru, Karnataka,Kennametal,D033
+J034,C004,Jenkin + Automated testcases,Bengaluru, Karnataka,Bosch Global Software Technologies,D034
+J035,C036,"Associate Quantitative Analyst, Index Management & Analytics",Mumbai, Maharashtra,Morningstar,D035
+J036,C023,Sr. Lead Engineer - Advanced Engineering,Chennai, Tamil Nadu,Mahindra Group,D036
+J037,C037,CAD Designer,Mumbai, Maharashtra,Marine Debt Management,D037
+J038,C038,Net Zero - Methodology expert,Mumbai, Maharashtra,ISS | Institutional Shareholder Services,D038
+J039,C023,GAT - Control,Pune, Maharashtra,Mahindra Group,D039
+J040,C039,Machine Learning - Senior Software Engineer,Noida, Uttar Pradesh,Paytm,D040
+J041,C025,Principal Engineer - Validation,Chennai, Tamil Nadu,Microchip Technology Inc.,D041
+J042,C040,"Intern, Credit Rating",Mumbai, Maharashtra,DBRS Morningstar,D042
+J043,C041,CNC (Machining Component Process Planning) Engineer,Pune, Maharashtra,Cyient,D043
+J044,C042,Quality Assurance Engineer (Quality System),Anupgarh, Rajasthan,Bridgestone Asia Pacific,D044
+J045,C019,Associate - Technical Analyst - Power BI,Gurgaon, Haryana,Macquarie Group,D045
+J046,C043,Python Developer,Ahmedabad, Gujarat,Cojective Labs,D046
+J047,C044,Apply posting for Senior Engineer - Software,Bengaluru, Karnataka,SLK,D047
+J048,C023,AM/DM-IE- Plant Engineering,Pune, Maharashtra,Mahindra Group,D048
+J049,C045,Associate Full Stack Developer,Bengaluru, Karnataka,Symphony Talent,D049
+J050,C046,Process Engineer,Bengaluru, Karnataka,"QUEST Engineering, LLC",D050
+J051,C047,Metallurgical Engineering Internship in Umargam at Mehta Tubes Limited,Umargam, Gujarat,Mehta Tubes Limited,D051
+J052,C098,BUSINESS DEVELOPMENT MANAGER,Pune, Maharashtra,Duncan & Ross Consulting,D052
+J053,C048,Software Development Engineer in Test - I,Bengaluru, Karnataka,Zendrive,D053
+J054,C049,Developer Analyst I,Hyderabad, Telangana,"RealPage, Inc.",D054
+J055,C050,Senior Analyst (L 08),Hyderabad, Telangana,Synchrony,D055
+J056,C011,Operations enginer,Raigarh, Chhattisgarh,T & A Solutions,D056
+J057,C007,Engineer - Enterprise Storage,Bengaluru, Karnataka,Target,D057
+J058,C020,"Data Analyst (SQL, PowerBI)",Bengaluru, Karnataka,TMF Group,D058
+J059,C044,Apply posting for Analyst and Designer,Bengaluru, Karnataka,SLK,D059
+J060,C051,Studio Graphene - Senior Quality Analyst - Manual Testing,Gurugram, Haryana,Studio Graphene,D060
+J061,C052,Python Developer,Chennai, Tamil Nadu,TransUnion,D061
+J062,C037,Chemical Engineer,Ahmedabad, Gujarat,Marine Debt Management,D062
+J063,C054,Business Data Analyst,Hyderabad, Telangana,Franklin Templeton India,D063
+J064,C055,Liquiloans - Data Scientist,Mumbai, Maharashtra,LiquiLoans,D064
+J065,C013,Specialist - Analytics,Gurgaon, Haryana,Sun Life,D065
+J066,C057,Software Engineering (Applications),Bengaluru, Karnataka,Micro Focus,D066
+J067,C058,Engineering Associate,Hyderabad, Telangana,Westin Hotels & Resorts,D067
+J068,C059,Data Scientist,Bengaluru, Karnataka,Happay,D068
+J069,C060,Data Analytics – Customer Analytics,Pune, Maharashtra,Western Union,D069
+J070,C061,Senior Analyst - BI,Hyderabad, Telangana,Ivy,D070
+J071,C062,Python Backend Developer,Bengaluru, Karnataka,Digitap.ai,D071
+J072,C027,Software Developer - Imaging,Bengaluru, Karnataka,DNEG,D072
+J073,C004,2022_HMI_QT_L51_Developers_COB_SDS,Coimbatore North, Tamil Nadu,Bosch Global Software Technologies,D073
+J074,C064,SME/TL- SQL Scripting,Hyderabad, Telangana,Golden Opportunities,D074
+J075,C020,"Data Analyst (SQL, PowerBI)",Pune/Pimpri-Chinchwad Area,,TMF Group,D075
+J076,#N/A,Data Visualization Engineer 2,Chennai, Tamil Nadu,Comcast,D076
+J077,C065,Data Engineer,Bengaluru, Karnataka,Indium Software,D077
+J078,C066,Backend Developer,Mumbai, Maharashtra,TIGI HR ®,D078
+J079,C067,Deep Learning Model Engineer,Pollachi, Tamil Nadu,Katomaran Technologies Private Limited,D079
+J080,C068,Front Office Data Engineer - Associate (Python),Bangalore Urban, Karnataka,AQR Capital Management,D080
+J081,C069,Applications Engineer (Fresher),Bengaluru, Karnataka,NI (National Instruments),D081
+J082,C070,.Net Developer,Pune, Maharashtra,Air Products India,D082
+J083,C071,Tech Software Engineer in Test,Pune, Maharashtra,UBS,D083
+J084,C021,Associate Analyst 3/CSR,Gurgaon, Haryana,Moody's Corporation,D084
+J085,C021,Programmer Analyst,Bengaluru, Karnataka,Moody's Corporation,D085
+J086,C073,.Net Developer - ASP/C#/MVC,Chennai, Tamil Nadu,Mobile Programming LLC,D086
+J087,C074,Test engineer - Specialist,Bengaluru, Karnataka,Koch Business Solutions India,D087
+J088,C071,Tech Engineer in Test,Pune, Maharashtra,UBS,D088
+J089,C075,Associate Manager - Data Engineering,Bengaluru, Karnataka,Tredence Inc.,D089
+J090,C076,Data Engineer,Pune/Pimpri-Chinchwad Area, Maharashtra,Faurecia,D090
+J091,C077,Back End Engineer,Faridabad, Haryana,HPL ADDITIVES LIMITED,D091
+J092,C078,SDET,Bengaluru, Karnataka,Rattle,D092
+J093,C079,"Data Engineering Analyst - Bangalore, KA",Bengaluru, Karnataka,Optum,D093
+J094,C080,Analyst - ERP - ABAP,Chennai, Tamil Nadu,Lennox International,D094
+J095,C081,Data Engineer,Panna, Madhya Pradesh,SKILLETY,D095
+J096,C004,2022_HMI_L52_QT_Developers_COB_SDS,Coimbatore, Tamil Nadu,Bosch Global Software Technologies,D096
+J097,C082,Dolat Capital - Quantitative Analyst/Quantitative Research Scientist,Mumbai, Maharashtra,Dolat Capital,D097
+J098,C084,Senior Data Scientist,Pune, Maharashtra,NICE Actimize,D098
+J099,C085,Electronics Engineering Internship in Dehradun at VIZON,Dehradun, Uttarakhand,VIZON,D099
+J100,C086,Data Scientist,Delhi, Delhi,R2R Consultants LLP,D100
+J101,C087,"C++ Developer (0-1 years), ENO",Pune, Maharashtra,Credit Suisse,D101
+J102,C002,Zoomcar - Senior Software Engineer/Lead Engineer - Data Warehousing,Bengaluru, Karnataka,Zoomcar,D102
+J103,C004,2022_HMI_QT_L50_Developers_COB_SDS,Coimbatore, Tamil Nadu,Bosch Global Software Technologies,D103
+J104,C088,Digital Insights Consultant III,Kochi, Kerala,Valorem Reply,D104
+J105,C090,SDET,Bengaluru, Karnataka,i4 HR Consulting : Reimagining HR Blueprints,D105
+J106,C091,Sales Representative II,Andhra Pradesh,Andhra Pradesh,Medtronic,D106
+J107,C068,Front Office Data Engineer- VP,Bangalore Urban, Karnataka,AQR Capital Management,D107
+J108,C029,Senior Business Analyst - API,,,Plivo,D108
+J109,C023,Seekers for _____ GAT,Pune, Maharashtra,Mahindra Group,D109
+J110,C041,MLOps Data Engineer,Bengaluru, Karnataka,Cyient,D110
+J111,C094,Engineering Director,Bengaluru, Karnataka,Ness Digital Engineering,D111
+J112,C095,Data Analytics,Kolkata, West Bengal,mPokket,D112
+J113,C023,Must apply on AM/DM-Plant Engineering-Industrial Engineering,Pune, Maharashtra,Mahindra Group,D113
+J114,C096,Data Scientist - Associate,Mumbai Metropolitan Region, Maharashtra,DBS Bank,D114
+J115,C097,Saarthee - Data Engineer - R/SAS/Python,Gurugram, Haryana,Saarthee,D115
+J116,C098,TALENT ACQUISITION SPECIALIST,Pune, Maharashtra,Duncan & Ross Consulting,D116
+J117,C099,Protocol Engineer,Hyderabad, Telangana,OnePlus,D117
+J118,C020,Data Engineer,Bengaluru, Karnataka,TMF Group,D118
+J119,C101,Solution Consultant - MDM,Chennai, Tamil Nadu,Pivotree,D119
+J120,C041,Assembly Process Planning Engineer,Pune, Maharashtra,Cyient,D120
+J121,C102,Associate - Quality Management (Remote),Thiruvananthapuram, Kerala,Perfomatix,D121
+J122,C020,Data Engineer,Bangalore Urban, Karnataka,TMF Group,D122
+J123,C103,DevOps Engineer,Gurgaon, Haryana,Cinta Medtech,D123
+J124,C087,Jun. Risk Modeler,Mumbai Metropolitan Region, Maharashtra,Credit Suisse,D124
+J125,C004,Linux Software Developers for Telematics,Bengaluru, Karnataka,Bosch Global Software Technologies,D125
+J126,C104,.NET Developer,Delhi, Delhi,Zaptas Technologies Pvt Ltd,D126
+J127,C105,Application Security Engineer Intern,Pune, Maharashtra,Cornerstone OnDemand,D127
+J128,C106,"Administrator,Database",Mumbai, Maharashtra,Netxcell Limited,D128
+J129,C107,PDP - Automation Support Engineer,Gurgaon, Haryana,Taurus Contractors Pvt Ltd,D129
+J130,C108,PL/SQL Software Engineer,Pune, Maharashtra,Avaloq,D130
+J131,C046,Machinery Surveillance And Diagnostics,Bengaluru, Karnataka,"QUEST Engineering, LLC",D131
+J132,C110,Software Developer- Data & Analytics,Pune, Maharashtra,Johnson Controls,D132
+J133,C060,"Senior Analyst, Customer Analytics",Pune, Maharashtra,Western Union,D133
+J134,C111,Analyst Quality Engineer,Gurgaon, Haryana,ANSR,D134
+J135,C112,Senior Python Developer - Django/Flask,Bengaluru, Karnataka,Kiash Solutions LLP,D135
+J136,C113,Principal Analyst,Chennai, Tamil Nadu,Citi,D136
+J137,C114,U2VBM8_software Testing enginerr,Bengaluru, Karnataka,Nityo Infotech,D137
+J138,C115,Embedded Software Engineer,Pune, Maharashtra,Technomech HR Solutions,D138
+J139,C034,Junior Design Engineer 2-India,Bengaluru, Karnataka,Kennametal,D139
+J140,C116,Site Engineering (Civil) Internship in Chennai at Hire And Build,Chennai, Tamil Nadu,Hireandbuild,D140
+J141,C117,Engineering Executive(Project Engineer),Ahmedabad, Gujarat,Pleasant Inc,D141
+J142,C034,Lead Associate Material Science-India,Bengaluru, Karnataka,Kennametal,D142
+J143,C118,Desktop Engineer,Gurgaon, Haryana,Federal Soft Systems Inc.,D143
+J144,C048,Software Development Engineer II - Backend,Bengaluru, Karnataka,Zendrive,D144
+J145,C119,Node.js/.Net Developer I - Full Stack Engineering,Kolkata Area,West Bengal,Celebal Technologies,D145
+J146,C120,Automation Tester,Bengaluru, Karnataka,CGI,D146
+J147,C121,Capacity Planning Analyst,Bengaluru, Karnataka,Amazon,D147
+J148,C001,Maintenance Manager,Aurangabad, Maharashtra,Capital Placement Services Gurgaon .,D148
+J149,C122,Engineer - Networks,Bengaluru, Karnataka,Atkins,D149
+J150,C046,FEA Engineer,Bengaluru, Karnataka,"QUEST Engineering, LLC",D150
+J151,C123,Data Engineer (Mid-Senior Level) Remote (Remote),Pune, Maharashtra,codvo.ai,D151
+J152,C124,Associate AI Engineer,Bengaluru, Karnataka,Uniphore,D152
+J153,C126,Associate Product Manager,New Delhi, Delhi,Abhi Loans,D153
+J154,C111,Analyst Quality Engineer,Gurgaon, Haryana,ANSR,D154
+J155,C127,Senior Test Automation Engineer - STLC Process,Bengaluru, Karnataka,QuestWorkx,D155
+J156,C128,Procurement Analyst,Bengaluru, Karnataka,RGBSI,D156
+J157,C129,Junior SDET,Bengaluru, Karnataka,Azul,D157
+J158,C130,Senior credit analyst (R/Python Programming),Pune, Maharashtra,CRISIL Limited,D158
+J159,C131,Research Analyst,Bengaluru, Karnataka,Chubb,D159
+J160,#N/A,Testing Engineer (Product Safety),Bengaluru, Karnataka,TÜV Rheinland Europe,D160
+J161,C012,Functional safety expert Two wheeler electrification,Bengaluru, Karnataka,Bosch India,D161
+J162,C132,Senior Manager Data,Hyderabad, Telangana,Fisker Inc,D162
+J163,C071,.Net Developer - Tech Engineer,Mumbai, Maharashtra,UBS,D163
+J164,C133,Electrician,Ahmedabad, Gujarat,Indian Institute of Management Ahmedabad,D164
+J165,C113,Data Lead L3 Manager,Pune, Maharashtra,Citi,D165
+J166,C134,Management Trainee (Materials),Kochi, Kerala,FERTILISERS AND CHEMICALS TRAVANCORE LIMITED,D166
+J167,C050,"Senior Analyst, H&A & Digital (L 08)",Hyderabad, Telangana,Synchrony,D167
+J168,C135,Mechanical Design Internship in Gurgaon at Vegazva Engineering,Gurgaon, Haryana,Vegazva Group,D168
+J169,C136,Software Engineer,Noida, Uttar Pradesh,Alliance Recruitment Agency,D169
+J170,C137,Software Engineer (Automation Engineer),Chennai, Tamil Nadu,American Technology Consulting - ATC,D170
+J171,C023,DGM - Warehouse Operations,Mumbai, Maharashtra,Mahindra Group,D171
+J172,C041,Hardware Engineer,Bengaluru, Karnataka,Cyient,D172
+J173,C113,Applications Development Intermediate Programmer Analyst,Pune, Maharashtra,Citi,D173
+J174,C134,Management Trainee (Mechanical),Kochi, Kerala,FERTILISERS AND CHEMICALS TRAVANCORE LIMITED,D174
+J175,C138,Analytical Engineer,Chennai, Tamil Nadu,Mindtree,D175
+J176,C139,Engineer - Process Engineering,Vadodara, Gujarat,GE Renewable Energy,D176
+J177,C140,Automation Developer,Gurgaon, Haryana,Ramboll,D177
+J178,C049,Developer Analyst I,Hyderabad, Telangana,"RealPage, Inc.",D178
+J179,C023,DGM - Warehouse Operations,Maharashtra, ,Mahindra Group,D179
+J180,C141,Manager_Data Analyst_Pune,Pune, Maharashtra,_VOIS,D180
+J181,C099,Test Automation Engineer,Hyderabad, Telangana,OnePlus,D181
+J182,C097,Saarthee - Data Engineer - SQL/Power BI,Gurugram, Haryana,Saarthee,D182
+J183,C004,IoT_Application_Monitoring Specialist,Coimbatore, Tamil Nadu,Bosch Global Software Technologies,D183
+J184,C143,FPGA Verification,Bengaluru, Karnataka,Thales,D184
+J185,C144,Data Analyst - Marketing Domain - eCommerce,New Delhi, Delhi,Unnati,D185
+J186,C044,Hire for Senior Engineer - SoftwareSenior Engineer - SoftwareBangalore,Bengaluru, Karnataka,SLK,D186
+J187,C145,Software Engineer,Bengaluru, Karnataka,IIO Technologies Pvt Ltd,D187
+J188,C146,Data Engineer,Bengaluru, Karnataka,Autodesk,D188
+J189,C147,Materials Planner,Bengaluru, Karnataka,Lam Research,D189
+J190,C148,Data Analysis Engineer,Bengaluru, Karnataka,proteanTecs,D190
+J191,C149,Product Solution Engineer,Bengaluru, Karnataka,FloBiz,D191
+J192,C150,Material Availability Analyst-2,Tiruvallur, Tamil Nadu,Caterpillar Inc.,D192
+J193,C151,"Senior Data Analyst, FinTech (Payments)",Bengaluru, Karnataka,Booking Holdings (NASDAQ: BKNG),D193
+J194,C152,Head/Senior Role - Product Analytics,Bengaluru, Karnataka,Vahak,D194
+J195,C107,Static Equipment Engineer,Mumbai, Maharashtra,Taurus Contractors Pvt Ltd,D195
+J196,C153,Mechanical Maintenance Engineer,Goa, ,Afton Consulting Group,D196
+J197,C154,Product Support Engineer,Chennai, Tamil Nadu,Datazoic Inc.,D197
+J198,C060,"Associate, Data Management",Pune, Maharashtra,Western Union,D198
+J199,C155,Business System Analyst - Intraday Liquidity,Hyderabad, Telangana,State Street,D199
+J200,C021,Assoc Programmer Analyst-MAI,Bengaluru, Karnataka,Moody's Corporation,D200
+J201,C156,Bhanzu - Data Engineer - SQL/ETL/Python,Bengaluru, Karnataka,Bhanzu,D201
+J202,C157,Dot Net Developer,Bengaluru, Karnataka,Euphoric Thought Technologies,D202
+J203,C158,Technical Support Engineering Internship in Chennai at Exeter Premedia Services Private Limited,Chennai, Tamil Nadu,Exeter Premedia Services,D203
+J204,C061,Database Analyst - SQL Server,Hyderabad, Telangana,Ivy,D204
+J205,C074,Software Developer - Specialist,Bengaluru, Karnataka,Koch Business Solutions India,D205
+J206,C159,Trainee Professional,Hyderabad, Telangana,Stefanini North America and APAC,D206
+J207,C161,Robotics Programmer - Intern,Chennai, Tamil Nadu,Abhyaz,D207
+J208,C162,Maintenance Engineer Fresher,Chennai, Tamil Nadu,Red Group,D208
+J209,C163,Big data Developer,Gurgaon, Haryana,HR BIZ HUB,D209
+J210,C001,Software Engineer - ASP .Net For IT MNC Company In Faridabad Sector 17,Gurgaon, Haryana,Capital Placement Services Gurgaon .,D210
+J211,C164,Program Management Specialist,Chennai, Tamil Nadu,Visteon India,D211
+J212,C087,"Jr. Application Support Analyst, ENO",Pune, Maharashtra,Credit Suisse,D212
+J213,C165,Software Automation Engineer,Bengaluru, Karnataka,Verifone,D213
+J214,C025,"Technical Staff Engineer, Device Modelling",Hyderabad, Telangana,Microchip Technology Inc.,D214
+J215,C091,Co-op/Apprentice (Tech),Kolkata, West Bengal,Medtronic,D215
+J216,C091,Co-op/Apprentice (Tech),Delhi, Delhi,Medtronic,D216
+J217,C166,Lead Product Manager,Bengaluru, Karnataka,DocsApp,D217
+J218,C020,"Data Analyst (SQL, PowerBI)",Noida, Uttar Pradesh,TMF Group,D218
+J219,C140,Consultant,Gurgaon, Haryana,Ramboll,D219
+J220,C091,Co-op/Apprentice (Tech),Nagpur, Maharashtra,Medtronic,D220
+J221,C167,Opening for Officer/Sr Officer SAP (ABAP plus Front End BI-BO /SAC Developer),Mumbai, Maharashtra,JAI HR MANAGEMENT CONSULTANCY SERVICES,D221
+J222,C168,2022 Data Engineer,Mumbai, Maharashtra,MSD,D222
+J223,C169,Drone System Engineering Internship in Bangalore at Lycan Aerospace,Bengaluru, Karnataka,Lycan Aerospace,D223
+J224,C170,Consultant - Project Management & Marketing,Pune, Maharashtra,CDACINDIA,D224
+J225,C171,Data Engineer,Bengaluru, Karnataka,Cisco,D225
+J226,C172,Seekers Post for___ Messaging Services Analyst,Noida, Uttar Pradesh,NTT DATA GLOBAL DELIVERY SERVICES PRIVATE LIMITED,D226
+J227,C086,GET in Product Management,Mumbai, Maharashtra,R2R Consultants LLP,D227
+J228,C173,Consultant- SC Analytics - Network,Mumbai, Maharashtra,General Mills,D228
+J229,C174,Contract Specialist,Hyderabad, Telangana,Cubic Corporation,D229
+J230,C134,Management Trainee (Information Technology),Kochi, Kerala,FERTILISERS AND CHEMICALS TRAVANCORE LIMITED,D230
+J231,C090,Research Scientist,Bengaluru, Karnataka,i4 HR Consulting : Reimagining HR Blueprints,D231
+J232,C071,Software Engineer,Pune, Maharashtra,UBS,D232
+J233,C175,Database Developer,Hayathnagar, Telangana,Workers Credit Union,D233
+J234,C176,Controls Engineer II,Bengaluru, Karnataka,Bastian Solutions,D234
+J235,C177,Analyst - ERP - ABAP,Chennai, Tamil Nadu,Lennox India Technology Centre,D235
+J236,C178,Senior Data Test Engineer,Bengaluru, Karnataka,Wipfli,D236
+J237,C179,Software Development Engineer in Test,Bangalore Urban district, Karnataka,New Era India,D237
+J238,C180,Proposal Manager,Hyderabad, Telangana,Rojgari Placements Pvt Ltd,D238
+J239,C181,Systems DVT Engineer,Bengaluru, Karnataka,Enphase Energy,D239
+J240,C033,Senior Process Analyst,Mumbai, Maharashtra,HuntingCube Recruitment Solutions,D240
+J241,C027,Software Developer - Performance,Bengaluru, Karnataka,DNEG,D241
+J242,C182,Quality Functional,Bengaluru, Karnataka,Drishti,D242
+J243,C023,Manager - Assembly,Nagpur, Maharashtra,Mahindra Group,D243
+J244,C181,"Staff Engineer, System DVT",Bengaluru, Karnataka,Enphase Energy,D244
+J245,C112,React System Developer - HTML/CSS,Bengaluru, Karnataka,Kiash Solutions LLP,D245
+J246,C183,Java Developer,Hyderabad, Telangana,Planon,D246
+J247,C001,Solution Consultant / Pre-sales Manager For Mnc Company In Gurgaon,Gurgaon, Haryana,Capital Placement Services Gurgaon .,D247
+J248,C184,".Net, SQL Server, Azure DevOps & AKS and expecting some performance engineering skills as well.",Chennai, Tamil Nadu,Diverse Lynx,D248
+J249,C185,Site Reliability Engineer,Bengaluru, Karnataka,REALBRIDGE,D249
+J250,C184,".Net, SQL Server, Azure DevOps & AKS and expecting some performance engineering skills as well.",Chennai, Tamil Nadu,Diverse Lynx,D250
+J251,C186,1K Kirana Bazaar - Manager - Logistics,Gurugram, Haryana,1K,D251
+J252,C004,Firmware Developer for sensor and solutions IoT devices,Coimbatore, Tamil Nadu,Bosch Global Software Technologies,D252
+J253,C187,Python Developer,Kochi, Kerala,Infoparks Kerala,D253
+J254,C161,Electrical Design Engineer - Intern,Chennai, Tamil Nadu,Abhyaz,D254
+J255,C160,Decision Analytics Associate Consultant/RWD,Bengaluru, Karnataka,ZS,D255
+J256,C188,Mindshare | Purple Masterminds,Mumbai, Maharashtra,Mindshare,D256
+J257,C189,Sales Analyst,Hyderabad, Telangana,Nextracker Inc.,D257
+J258,C091,Field Tech Srv Spec,Mumbai, Maharashtra,Medtronic,D258
+J259,C190,Embedded Performance Engineer,Hyderabad, Telangana,Stellantis,D259
+J260,C004,Embedded Telematics Tester,Bengaluru, Karnataka,Bosch Global Software Technologies,D260
+J261,C191,(Data Analyst ) Sr. Analyst - Data Architecture,Mumbai, Maharashtra,Colgate-Palmolive,D261
+J262,C192,Engineering Manager - Testing - Automation Testing Tools,Bengaluru, Karnataka,Multi Recruit,D262
+J263,C193,Backend Developer - Solution Design,Kochi, Kerala,CornerTree,D263
+J264,C194,Data Scientist,Jaipur, Rajasthan,ATCS Inc.,D264
+J265,C195,"Business Analyst, Pricing - Bangalore",Bengaluru, Karnataka,Loop,D265
+J266,C132,Data Scientist,Hyderabad, Telangana,Fisker Inc,D266
+J267,C196,Galytix - Data Architect - Data Modeling/ETL,Gurugram, Haryana,Galytix,D267
+J268,C197,Data Engineer (Snowflake),Hyderabad, Telangana,ServiceNow,D268
+J269,C198,Associate – QR Strats India Support - US,Mumbai, Maharashtra,Morgan Stanley,D269
+J270,C199,Manager - Analytics,Gurgaon, Haryana,Credenc.com,D270
+J271,C200,Junior Software Engineers Bangalore Office Job,Bengaluru, Karnataka,TeamPlus Staffing Solution Pvt Ltd,D271
+J272,C201,Apprenticeship Trade - Graduate (Civil),Srinagar, Jammu & Kashmir,Power Grid Corporation of India Limited,D272
+J273,C202,Associate Consultant,Hyderabad, Telangana,Veeva Systems,D273
+J274,C203,Design And Development Engineering Internship in Mumbai at Intritech,Mumbai, Maharashtra,Intritech,D274
+J275,C204,"Technical Site Engineering Internship in Guwahati, Itanagar at Ssans Solutions",Guwahati, Assam,SSANS Solutions,D275
+J276,C206,OneCard - Lead - Collection Analytics & Strategy,Pune, Maharashtra,OneCard,D276
+J277,C189,Sales Analyst,Hyderabad, Telangana,Nextracker Inc.,D277
+J278,C037,Design Engineer,Mumbai, Maharashtra,Marine Debt Management,D278
+J279,C207,DG - Business Analyst - Data Visualization & Analytics-ANA005540,Bengaluru, Karnataka,Genpact,D279
+J280,C187,Junior Business development executive - B2B sales - Freshers !!,Kochi, Kerala,Infoparks Kerala,D280
+J281,C041,System Implementation Engineer (Aerospace),Bengaluru, Karnataka,Cyient,D281
+J282,C208,Cloud Analytics Data Engineer,Hyderabad, Telangana,TekLink International Inc.,D282
+J283,C091,Field Tech Srv Spec,Hyderabad, Telangana,Medtronic,D283
+J284,C004,EAB-COB 2022 Vehicle Diagnostics data Author,Coimbatore, Tamil Nadu,Bosch Global Software Technologies,D284
+J285,C087,Risk Modeler,Mumbai Metropolitan Region,,Credit Suisse,D285
+J286,C124,Software Engineer (SE Dev 1),Pune, Maharashtra,Uniphore,D286
+J287,C209,System Test Engineer,Bengaluru, Karnataka,Allegion,D287
+J288,C046,Mechanical Design (Creo Sheet Metal) - Heavy Machinery products,Chennai, Tamil Nadu,"QUEST Engineering, LLC",D288
+J289,C177,Mechanical Engineer III - Ind. Innov.Lab,Chennai, Tamil Nadu,Lennox India Technology Centre,D289
+J290,C024,Data Scientist – Lead Engineer,Chennai, Tamil Nadu,Prodapt,D290
+J291,C091,Sales Representative I,Chandigarh, Chandigarh,Medtronic,D291
+J292,C164,Sr Program Management Analyst 2,Chennai, Tamil Nadu,Visteon India,D292
+J293,C195,"Business Analyst, Pricing - Mumbai",Mumbai, Maharashtra,Loop,D293
+J294,C001,Jr. Machine Learning Developer / Python Software Developer For Chandigarh,Chandigarh, Chandigarh,Capital Placement Services Gurgaon .,D294
+J295,C009,Test Analyst (Retail Banking),Bengaluru, Karnataka,Luxoft,D295
+J296,C049,Developer I,Hyderabad, Telangana,"RealPage, Inc.",D296
+J297,C212,Integration Architect,Mumbai, Maharashtra,Vitasta Consulting Pvt Ltd,D297
+J298,C058,Engineering Executive,Kolkata, West Bengal,Westin Hotels & Resorts,D298
+J299,C120,ARCHITECT,Bengaluru, Karnataka,CGI,D299
+J300,C134,Technician (Instrumentation),Kochi, Kerala,FERTILISERS AND CHEMICALS TRAVANCORE LIMITED,D300
+J301,C213,Data Engineer (m/f/d),Bengaluru, Karnataka,Global Savings Group,D301
+J302,C091,Co-op/Apprentice (Tech),Kochi, Kerala,Medtronic,D302
+J303,C004,Stgn22-RHEL Administrator - Senior,Bengaluru, Karnataka,Bosch Global Software Technologies,D303
+J304,C027,"Software Developer - Layout, Animation, Matchmove & Previs (LAMP)",Bengaluru, Karnataka,DNEG,D304
+J305,C068,Security Engineer - Associate,Bangalore Urban, Karnataka,AQR Capital Management,D305
+J306,C214,Assistant Manager - Product,Hyderabad, Telangana,Napier Healthcare,D306
+J307,C215,Analyst- Geo Analytics- GAMMA,Gurugram, Haryana,BCG GAMMA,D307
+J308,C216,Data Science & Analytics Manager - Python/SQL/R,Delhi, Delhi,BC Jindal Group,D308
+J309,C217,Axis Group International - Analyst - Strategy Consulting,Mumbai, Maharashtra,Axis Group International,D309
+J310,C218,Manager - Business Development,Gurgaon, Haryana,Pluss Advanced Technologies Pvt. Ltd.,D310
+J311,C219,Associate I Software Engineer,Gurgaon, Haryana,IHS Markit,D311
+J312,C124,Performance Test Engineer,Bengaluru, Karnataka,Uniphore,D312
+J313,C160,Decision Analytics Associate Consultant/RWD,Pune, Maharashtra,ZS,D313
+J314,C101,Solution Consultant - MDM,Mumbai, Maharashtra,Pivotree,D314
+J315,C074,Team Lead - QA,Bengaluru, Karnataka,Koch Business Solutions India,D315
+J316,C220,Bigdata Engineer,Bengaluru, Karnataka,Applied Materials,D316
+J317,C041,Assembly Process Planning Engineer,Pune, Maharashtra,Cyient,D317
+J318,C023,GAT -PE,Pune, Maharashtra,Mahindra Group,D318
+J319,C221,"Engineer I, Software Engineering",Bengaluru, Karnataka,Xerox,D319
+J320,C023,GAT,Pune, Maharashtra,Mahindra Group,D320
+J321,C150,Material Planning Analyst,Hosur, Tamil Nadu,Caterpillar Inc.,D321
+J322,C222,Tableau,Hyderabad, Telangana,NTT DATA Business Solutions India,D322
+J323,C188,Mindshare | Purple Masterminds,Bengaluru, Karnataka,Mindshare,D323
+J324,C099,Camera Systems Engineer,Hyderabad, Telangana,OnePlus,D324
+J325,C037,Electrical Engineer,Pune, Maharashtra,Marine Debt Management,D325
+J326,C074,Team Lead - Web Applications,Bengaluru, Karnataka,Koch Business Solutions India,D326
+J327,C101,Solution Consultant - MDM,Noida, Uttar Pradesh,Pivotree,D327
+J328,C097,Saarthee - Data Engineer - ETL/Data Warehousing,Gurugram, Haryana,Saarthee,D328
+J329,C096,"Senior Associate, Site Reliability Engineer",Hyderabad, Telangana,DBS Bank,D329
+J330,C223,Energy Markets Consultant - Power,Delhi, Delhi,ICF,D330
+J331,C209,IT PLM Analyst I,Bengaluru, Karnataka,Allegion,D331
+J332,C021,Associate Financial Engineer,Bengaluru, Karnataka,Moody's Corporation,D332
+J333,C224,Intermediate Applications Tester,Bengaluru, Karnataka,CDM Smith,D333
+J334,C039,Engineering Manager,Bengaluru, Karnataka,Paytm,D334
+J335,C225,RRU Supervisor,Barmer, Rajasthan,Brunel,D335
+J336,C037,Design Engineer,Mumbai, Maharashtra,Marine Debt Management,D336
+J337,C226,Management Trainee - Materials Management,Kolkata, West Bengal,Coal India Limited,D337
+J338,C227,Backend Developer,Noida, Uttar Pradesh,TagTaste Foods Pvt. Limited,D338
+J339,C004,EHM_2022_L50_AndriodDevelopers_ECI_COB_SDS,Coimbatore, Tamil Nadu,Bosch Global Software Technologies,D339
+J340,C128,CAD Engineer,Chennai, Tamil Nadu,RGBSI,D340
+J341,C229,Actuarial Data Analyst,Bengaluru, Karnataka,Swiss Re,D341
+J342,C230,Senior Python Automation Engineer,Bengaluru, Karnataka,Sony India Software Centre,D342
+J343,C036,Data Project Specialist,Mumbai, Maharashtra,Morningstar,D343
+J344,C134,Technician (Process),Kochi, Kerala,FERTILISERS AND CHEMICALS TRAVANCORE LIMITED,D344
+J345,C231,Consultant-DataAnalytics,Bengaluru, Karnataka,Amazon Web Services (AWS),D345
+J346,C232,Production Officer,Chennai, Tamil Nadu,D Recruitment Company,D346
+J347,C046,Mechanical Design (Casting) - Heavy Machinery products,Chennai, Tamil Nadu,"QUEST Engineering, LLC",D347
+J348,C009,Test Engineer (Retail Banking),Bengaluru, Karnataka,Luxoft,D348
+J349,C101,Solution Consultant - MDM,Bengaluru, Karnataka,Pivotree,D349
+J350,C004,ECR Management Engineer,Bengaluru, Karnataka,Bosch Global Software Technologies,D350
+J351,C101,Solution Consultant - MDM,Pune, Maharashtra,Pivotree,D351
+J352,C233,Engineering Associate,Goa, ,Le Méridien Hotels & Resorts,D352
+J353,C107,Project Controls Manager,Gurgaon, Haryana,Taurus Contractors Pvt Ltd,D353
+J354,C234,Data Engineer I,Hyderabad, Telangana,Advance Auto Parts,D354
+J355,C061,Senior Analyst – BI,Hyderabad, Telangana,Ivy,D355
+J356,C235,Senior Executive _Direct Procurement _Buyer Profile_ Automotive,Pune, Maharashtra,IAC Group,D356
+J357,C100,Deputy Manager - Production (MB),Kalol, Gujarat,Morgan Advanced Materials,D357
+J358,C074,Tech Lead,Bengaluru, Karnataka,Koch Business Solutions India,D358
+J359,C023,AM/DM- Mechanical Maintenance MAXXIMO BIW,Pune, Maharashtra,Mahindra Group,D359
+J360,C181,"Staff Engineer, Global System Support",Bengaluru, Karnataka,Enphase Energy,D360
+J361,C237,Advanced Data Engineer,Bengaluru, Karnataka,Honeywell,D361
+J362,C238,Engineering Manager,Kolkata Area,,Fairfield Inn & Suites by Marriott,D362
+J363,C239,New Product Manufacturing Engineer,Bengaluru, Karnataka,Applied Materials India,D363
+J364,C209,Security Test Engineer,Bengaluru, Karnataka,Allegion,D364
+J365,C237,Software Engr II,Bengaluru, Karnataka,Honeywell,D365
+J366,C134,Management Trainee (Chemical),Kochi, Kerala,FERTILISERS AND CHEMICALS TRAVANCORE LIMITED,D366
+J367,C101,Solution Consultant - MDM,New Delhi, Delhi,Pivotree,D367
+J368,C242,Associate Application Engineer,Bengaluru, Karnataka,Maxim Integrated,D368
+J369,C003,Product Support Engineer,Mumbai, Maharashtra,Fynd (Shopsense Retail Technologies Ltd.),D369
+J370,C243,Lead Member Technical Staff,Bengaluru, Karnataka,Siemens Digital Industries Software,D370
+J371,C244,Specialist - Quality Engineering,Pune, Maharashtra,LTI - Larsen & Toubro Infotech,D371
+J372,C099,Telephony Framework Engineer,Hyderabad, Telangana,OnePlus,D372
+J373,C114,U2V3R_DEVOPS ENGINER_ Bangalore/chennai,Chennai, Tamil Nadu,Nityo Infotech,D373
+J374,C076,Product Owner,Pune/Pimpri-Chinchwad Area,,Faurecia,D374
+J375,C245,"Software Development Engineer, I",Bengaluru, Karnataka,Zebra Technologies,D375
+J376,C091,Co-op/Apprentice (Tech),Mumbai, Maharashtra,Medtronic,D376
+J377,C246,Business Systems Analyst (SaaS & Subscription Business Enablement),Bengaluru, Karnataka,Zoom,D377
+J378,C001,Hardware Engineer For Company In Jmd Megapolis Sohna Road Gurgaon,Gurgaon, Haryana,Capital Placement Services Gurgaon .,D378
+J379,C247,R&D Engineer,Greater Bengaluru Area,,Nokia,D379
+J380,C248,Django Full Stack Developer,Bengaluru, Karnataka,CONXAI,D380
+J381,C249,BI Engineer,Bengaluru, Karnataka,"Take-Two Interactive Software, Inc.",D381
+J382,C201,Apprenticeship Trade - Graduate (Electrical),Jaipur, Rajasthan,Power Grid Corporation of India Limited,D382
+J383,C250,"Engineer, Global Project Quotation",Mumbai, Maharashtra,Valmet,D383
+J384,C064,SM / AD - Analytics Solution architect,Mumbai, Maharashtra,Golden Opportunities,D384
+J385,C060,"Scientist, Decision Sciences (SQL, Python & R)",Pune, Maharashtra,Western Union,D385
+J386,C251,Associate Data Scientist - Artificial Intelligence/Machine Learning,Gurugram, Haryana,Talisman Advisors Pvt. Ltd.,D386
+J387,C041,Industrial and Process Planning Engineer for paint shop,Pune, Maharashtra,Cyient,D387
+J388,C252,Front Office Associate,Ahmedabad, Gujarat,Courtyard by Marriott,D388
+J389,C215,"Analyst, Predictive Analytics - GAMMA",Gurugram, Haryana,BCG GAMMA,D389
+J390,C253,Engineer,Bengaluru, Karnataka,ANZ,D390
+J391,C254,Financial Advisory_Forensic & Dispute Services_Data Analyst_SQL,Mumbai, Maharashtra,Deloitte Asia Pacific,D391
+J392,C255,Application Support Engineer,Delhi, Delhi,LambdaTest,D392
+J393,C256,Mech./Autocad Draughtsman,New Delhi, Delhi,Infinity Solutions,D393
+J394,C003,Engineering Manager - QE & SDET,Mumbai, Maharashtra,Fynd (Shopsense Retail Technologies Ltd.),D394
+J395,C257,Biotechnology/Bioscience Engineering Internship in Guwahati at Primary Healthtech,Guwahati, Assam,Primary Healthtech,D395
+J396,C100,Senior Executive / Deputy Manager - Supply Chain Management (MB),Kalol, Gujarat,Morgan Advanced Materials,D396
+J397,C138,Python + Pyspark - Technical Lead,Bengaluru, Karnataka,Mindtree,D397
+J398,C074,Team Lead - Web Applications,Bengaluru, Karnataka,Koch Business Solutions India,D398
+J399,C039,Product Marketing - General Manager,Noida, Uttar Pradesh,Paytm,D399
+J400,C258,Principal Software Dev Engr,Bengaluru, Karnataka,Tesco Technology,D400
+J401,C259,Associate Consultant,Noida, Uttar Pradesh,Huron,D401
+J402,C004,Simulation Engineering - SPDM,Bengaluru, Karnataka,Bosch Global Software Technologies,D402
+J403,C200,Senior Logistic Executive,Bengaluru, Karnataka,TeamPlus Staffing Solution Pvt Ltd,D403

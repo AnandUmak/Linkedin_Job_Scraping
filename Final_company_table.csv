@@ -1,0 +1,260 @@
+company_id,company_name,industry_type,employees_count,linkedin_followers
+C001,Capital Placement Services Gurgaon ., Human Resources Services,1,14205
+C002,Zoomcar," Technology, Information and Internet",201,46150
+C003,Fynd (Shopsense Retail Technologies Ltd.), Internet Marketplace Platforms,501,37670
+C004,Bosch Global Software Technologies, IT Services and IT Consulting,10001,794635
+C005,Allscripts India, IT Services and IT Consulting,1001,10394
+C006,Energy Exemplar, Software Development,201,11329
+C007,Target, Retail,10001,1559630
+C008,Providence India, Hospitals and Health Care,501,12998
+C009,Luxoft, IT Services and IT Consulting,10001,769465
+C010,Mr. Cooper, Financial Services,5001,93961
+C011,T & A Solutions, Human Resources Services,1,16353
+C012,Bosch India, Motor Vehicle Manufacturing,10001,752227
+C013,Sun Life, Financial Services,10001,267089
+C014,Jina AI, Software Development,11,7704
+C015,Embibe, E-Learning Providers,501,66173
+C016,CSB Bank Limited, Banking,1001,36599
+C017,The Luxury Closet, Retail Apparel and Fashion,1,918
+C018,Onsite, Construction,11,4812
+C019,Macquarie Group, Financial Services,10001,460506
+C020,TMF Group, Financial Services,5001,228952
+C021,Moody's Corporation, Financial Services,10001,142587
+C022,Skan.ai, Software Development,51,16880
+C023,Mahindra Group, Executive Offices,10001,1000812
+C024,Prodapt, Media and Telecommunications,5001,45752
+C025,Microchip Technology Inc., Semiconductor Manufacturing,10001,271480
+C026,Zeeco India, Oil and Gas,201,1381
+C027,DNEG," Movies, Videos, and Sound",1001,188123
+C028,Water Management & Plumbing Skill Council, Education Administration Programs,11,1444
+C029,Plivo," Technology, Information and Internet",201,63211
+C030,Rentokil Initial, Environmental Services,10001,189007
+C031,Blox.xyz, Real Estate,11,3223
+C032,Indicia Worldwide, Advertising Services,501,25547
+C033,HuntingCube Recruitment Solutions, Human Resources Services,201,59991
+C034,Kennametal, Machinery Manufacturing,10001,120310
+C035,American Express, Financial Services,10001,1705716
+C036,Morningstar, Financial Services,5001,212128
+C037,Marine Debt Management, Maritime Transportation,1,7749
+C038,ISS | Institutional Shareholder Services, Financial Services,1001,56839
+C039,Paytm, Financial Services,10001,1047249
+C040,DBRS Morningstar, Financial Services,501,15379
+C041,Cyient, IT Services and IT Consulting,10001,265380
+C042,Bridgestone Asia Pacific, Motor Vehicle Manufacturing,10001,29306
+C043,Cojective Labs, IT Services and IT Consulting,11,94
+C044,SLK, IT Services and IT Consulting,5001,61867
+C045,Symphony Talent, Software Development,201,6763
+C046,"QUEST Engineering, LLC", Industrial Machinery Manufacturing,1,4515
+C047,Mehta Tubes Limited, Wholesale Building Materials,201,575
+C048,Zendrive," Technology, Information and Internet",51,15939
+C049,"RealPage, Inc.", Software Development,5001,184299
+C050,Synchrony, Financial Services,10001,106047
+C051,Studio Graphene, IT Services and IT Consulting,51,8519
+C052,TransUnion, IT Services and IT Consulting,5001,278267
+C053,TutorBin, E-Learning Providers,51,14031
+C054,Franklin Templeton India, Financial Services,201,173076
+C055,LiquiLoans, Financial Services,201,10538
+C056,Prismforce, Software Development,11,1860
+C057,Micro Focus, IT Services and IT Consulting,10001,271033
+C058,Westin Hotels & Resorts, Hospitality,5001,196881
+C059,Happay, Software Development,201,28973
+C060,Western Union, Financial Services,5001,235276
+C061,Ivy, Software Development,1001,39820
+C062,Digitap.ai, Financial Services,11,844
+C063,Rapido, IT Services and IT Consulting,1001,163373
+C064,Golden Opportunities, Staffing and Recruiting,51,80931
+C065,Indium Software, IT Services and IT Consulting,1001,62335
+C066,TIGI HR ®, Staffing and Recruiting,51,56653
+C067,Katomaran Technologies Private Limited, IT Services and IT Consulting,51,2595
+C068,AQR Capital Management, Investment Management,501,74748
+C069,NI (National Instruments)," Appliances, Electrical, and Electronics Manufacturing",5001,213756
+C070,Air Products India, Chemical Manufacturing,1001,30239
+C071,UBS, Financial Services,10001,1207217
+C072,AKWEL, Motor Vehicle Parts Manufacturing,10001,41669
+C073,Mobile Programming LLC, IT Services and IT Consulting,1001,194180
+C074,Koch Business Solutions India, Oil and Gas,1001,25718
+C075,Tredence Inc., Business Consulting and Services,1001,102810
+C076,Faurecia, Motor Vehicle Manufacturing,10001,598315
+C077,HPL ADDITIVES LIMITED, Chemical Manufacturing,501,3279
+C078,Rattle, Software Development,11,5768
+C079,Optum, Hospitals and Health Care,10001,518784
+C080,Lennox International, Manufacturing,10001,78523
+C081,SKILLETY, Staffing and Recruiting,51,4770
+C082,Dolat Capital, Financial Services,201,12524
+C083,Navi, Financial Services,501,165552
+C084,NICE Actimize, Software Development,501,27886
+C085,VIZON, Computers and Electronics Manufacturing,1,152
+C086,R2R Consultants LLP, Staffing and Recruiting,11,4738
+C087,Credit Suisse, Banking,10001,1189587
+C088,Valorem Reply, IT Services and IT Consulting,201,12112
+C089,Codemonk, IT Services and IT Consulting,11,3002
+C090,i4 HR Consulting : Reimagining HR Blueprints, Human Resources Services,11,7979
+C091,Medtronic, Medical Equipment Manufacturing,10001,1419818
+C092,grofers," Technology, Information and Internet",1001,264941
+C093,Eli Lilly and Company, Pharmaceutical Manufacturing,10001,1348884
+C094,Ness Digital Engineering, IT Services and IT Consulting,1001,136116
+C095,mPokket, Financial Services,1001,15791
+C096,DBS Bank, Banking,10001,763941
+C097,Saarthee, Business Consulting and Services,51,4984
+C098,Duncan & Ross Consulting, IT Services and IT Consulting,201,44124
+C099,OnePlus, Computers and Electronics Manufacturing,1001,384775
+C100,Morgan Advanced Materials," Glass, Ceramics and Concrete Manufacturing",5001,43432
+C101,Pivotree, IT Services and IT Consulting,501,11806
+C102,Perfomatix, IT Services and IT Consulting,51,3099
+C103,Cinta Medtech, Wellness and Fitness Services,201,7382
+C104,Zaptas Technologies Pvt Ltd, Software Development,51,3146
+C105,Cornerstone OnDemand, Software Development,1001,99104
+C106,Netxcell Limited, Telecommunications,201,3660
+C107,Taurus Contractors Pvt Ltd, Oil and Gas,11,29137
+C108,Avaloq, Financial Services,1001,55069
+C109,BD, Medical Equipment Manufacturing,10001,706838
+C110,Johnson Controls, Industrial Machinery Manufacturing,10001,1150509
+C111,ANSR, Business Consulting and Services,51,23718
+C112,Kiash Solutions LLP, Staffing and Recruiting,51,15536
+C113,Citi, Financial Services,10001,3817865
+C114,Nityo Infotech, IT Services and IT Consulting,10001,155214
+C115,Technomech HR Solutions, Human Resources Services,11,729
+C116,Hireandbuild, Construction,1,517
+C117,Pleasant Inc, Staffing and Recruiting,1,4589
+C118,Federal Soft Systems Inc., IT Services and IT Consulting,501,7455
+C119,Celebal Technologies, IT Services and IT Consulting,1001,38220
+C120,CGI, IT Services and IT Consulting,10001,929121
+C121,Amazon," Technology, Information and Internet",10001,27598693
+C122,Atkins, Design Services,10001,710858
+C123,codvo.ai, Software Development,51,11423
+C124,Uniphore, IT Services and IT Consulting,501,45170
+C125,George Bernard, Human Resources Services,1,3327
+C126,Abhi Loans, Banking,1,290
+C127,QuestWorkx, Human Resources Services,1,2888
+C128,RGBSI, Business Consulting and Services,1001,58899
+C129,Azul, Software Development,201,8155
+C130,CRISIL Limited, Financial Services,1001,422990
+C131,Chubb, Insurance,10001,616323
+C132,Fisker Inc, Motor Vehicle Manufacturing,501,90227
+C133,Indian Institute of Management Ahmedabad, Education Administration Programs,501,253021
+C134,FERTILISERS AND CHEMICALS TRAVANCORE LIMITED, Chemical Manufacturing,1001,2041
+C135,Vegazva Group, Outsourcing and Offshoring Consulting,201,8923
+C136,Alliance Recruitment Agency, Human Resources Services,51,8650
+C137,American Technology Consulting - ATC, IT Services and IT Consulting,51,96225
+C138,Mindtree, IT Services and IT Consulting,10001,1397210
+C139,GE Renewable Energy, Wind Electric Power Generation,10001,831265
+C140,Ramboll, Civil Engineering,10001,387262
+C141,_VOIS, IT Services and IT Consulting,10001,85204
+C142,SalaryBox, Financial Services,51,4283
+C143,Thales," Technology, Information and Internet",10001,1021364
+C144,Unnati, Farming,51,16224
+C145,IIO Technologies Pvt Ltd, Defense and Space Manufacturing,11,330
+C146,Autodesk, Software Development,10001,645916
+C147,Lam Research, Semiconductor Manufacturing,10001,223619
+C148,proteanTecs, Software Development,51,6272
+C149,FloBiz, IT Services and IT Consulting,51,14957
+C150,Caterpillar Inc., Machinery Manufacturing,10001,1457709
+C151,Booking Holdings (NASDAQ: BKNG)," Technology, Information and Internet",10001,19504
+C152,Vahak, Truck Transportation,51,9853
+C153,Afton Consulting Group, Human Resources Services,1,4008
+C154,Datazoic Inc., IT Services and IT Consulting,51,3579
+C155,State Street, Financial Services,10001,436929
+C156,Bhanzu, Education Administration Programs,51,25390
+C157,Euphoric Thought Technologies, Software Development,51,7635
+C158,Exeter Premedia Services, Book and Periodical Publishing,51,2771
+C159,Stefanini North America and APAC, IT Services and IT Consulting,10001,40531
+C160,ZS, Business Consulting and Services,10001,403737
+C161,Abhyaz, E-Learning Providers,11,2587
+C162,Red Group, Real Estate,1,8770
+C163,HR BIZ HUB, Staffing and Recruiting,11,8615
+C164,Visteon India, Motor Vehicle Manufacturing,1001,21695
+C165,Verifone, Financial Services,5001,88461
+C166,DocsApp, Wellness and Fitness Services,1001,6202
+C167,JAI HR MANAGEMENT CONSULTANCY SERVICES, Staffing and Recruiting,11,1985
+C168,MSD, Pharmaceutical Manufacturing,10001,856780
+C169,Lycan Aerospace, Aviation and Aerospace Component Manufacturing,1,208
+C170,CDACINDIA, IT Services and IT Consulting,1001,31091
+C171,Cisco, Software Development,10001,5394643
+C172,NTT DATA GLOBAL DELIVERY SERVICES PRIVATE LIMITED, IT Services and IT Consulting,10001,11252
+C173,General Mills, Manufacturing,10001,566588
+C174,Cubic Corporation, IT Services and IT Consulting,5001,53657
+C175,Workers Credit Union, Banking,201,2942
+C176,Bastian Solutions," Transportation, Logistics, Supply Chain and Storage",1001,43019
+C177,Lennox India Technology Centre, Industrial Machinery Manufacturing,501,29370
+C178,Wipfli, Accounting,1001,20609
+C179,New Era India, Human Resources Services,201,35708
+C180,Rojgari Placements Pvt Ltd, Staffing and Recruiting,11,2716
+C181,Enphase Energy, Renewable Energy Semiconductor Manufacturing,1001,72379
+C182,Drishti, Software Development,51,9774
+C183,Planon, IT Services and IT Consulting,501,13054
+C184,Diverse Lynx, Software Development,1001,43245
+C185,REALBRIDGE, Advertising Services,11,6899
+C186,1K, Retail,501,22096
+C187,Infoparks Kerala, IT Services and IT Consulting,10001,48309
+C188,Mindshare, Advertising Services,5001,315096
+C189,Nextracker Inc., Renewable Energy Semiconductor Manufacturing,201,31421
+C190,Stellantis, Motor Vehicle Manufacturing,10001,1541878
+C191,Colgate-Palmolive, Manufacturing,10001,1978612
+C192,Multi Recruit, Staffing and Recruiting,11,24387
+C193,CornerTree, IT Services and IT Consulting,51,11768
+C194,ATCS Inc., IT Services and IT Consulting,501,20760
+C195,Loop, Hospitals and Health Care,51,8352
+C196,Galytix, IT System Custom Software Development,51,26486
+C197,ServiceNow, Software Development,10001,601060
+C198,Morgan Stanley, Financial Services,10001,2296924
+C199,Credenc.com, Financial Services,51,4762
+C200,TeamPlus Staffing Solution Pvt Ltd, Staffing and Recruiting,11,3867
+C201,Power Grid Corporation of India Limited, Utilities,5001,72956
+C202,Veeva Systems, Software Development,1001,108819
+C203,Intritech, Industrial Machinery Manufacturing,1,75
+C204,SSANS Solutions, Security and Investigations,11,349
+C205,HELLA, Motor Vehicle Parts Manufacturing,10001,238257
+C206,OneCard, Financial Services,51,2951
+C207,Genpact, IT Services and IT Consulting,10001,2040955
+C208,TekLink International Inc., IT Services and IT Consulting,201,4632
+C209,Allegion, Security and Investigations,10001,82779
+C210,HyringNinja, Staffing and Recruiting,11,2208
+C211,Thermo Fisher Scientific, Biotechnology Research,10001,1058246
+C212,Vitasta Consulting Pvt Ltd, Human Resources Services,11,38084
+C213,Global Savings Group," Technology, Information and Internet",501,9850
+C214,Napier Healthcare, IT Services and IT Consulting,201,18413
+C215,BCG GAMMA, Business Consulting and Services,1001,61867
+C216,BC Jindal Group, Packaging and Containers Manufacturing,1001,6045
+C217,Axis Group International, International Trade and Development,51,2421
+C218,Pluss Advanced Technologies Pvt. Ltd., Research Services,51,6707
+C219,IHS Markit, Information Services,10001,282238
+C220,Applied Materials, Semiconductor Manufacturing,10001,326198
+C221,Xerox, IT Services and IT Consulting,10001,894608
+C222,NTT DATA Business Solutions India, IT Services and IT Consulting,10001,20514
+C223,ICF, Business Consulting and Services,5001,152372
+C224,CDM Smith, Civil Engineering,5001,122210
+C225,Brunel, Staffing and Recruiting,10001,469308
+C226,Coal India Limited, Mining,10001,46620
+C227,TagTaste Foods Pvt. Limited," Technology, Information and Internet",11,3340
+C228,Sandvik, Mining,10001,505488
+C229,Swiss Re, Insurance,10001,389088
+C230,Sony India Software Centre, IT Services and IT Consulting,1001,30810
+C231,Amazon Web Services (AWS), IT Services and IT Consulting,10001,7435550
+C232,D Recruitment Company, Human Resources Services,11,1553
+C233,Le Méridien Hotels & Resorts, Hospitality,10001,69390
+C234,Advance Auto Parts, Retail,10001,101776
+C235,IAC Group, Motor Vehicle Manufacturing,10001,86337
+C236,Mastercard, IT Services and IT Consulting,10001,1098098
+C237,Honeywell," Appliances, Electrical, and Electronics Manufacturing",10001,2224298
+C238,Fairfield Inn & Suites by Marriott, Hospitality,5001,20919
+C239,Applied Materials India, Semiconductor Manufacturing,10001,21315
+C240,Fluence, Renewable Energy Semiconductor Manufacturing,501,93691
+C241,ASAPP, Software Development,201,34707
+C242,Maxim Integrated, Semiconductor Manufacturing,5001,111384
+C243,Siemens Digital Industries Software, Software Development,5001,378291
+C244,LTI - Larsen & Toubro Infotech, IT Services and IT Consulting,10001,1768274
+C245,Zebra Technologies, IT Services and IT Consulting,5001,261535
+C246,Zoom, IT Services and IT Consulting,5001,463157
+C247,Nokia, Telecommunications,10001,1409929
+C248,CONXAI, Software Development,11,1392
+C249,"Take-Two Interactive Software, Inc.", Entertainment Providers,10001,41195
+C250,Valmet, Machinery Manufacturing,10001,152169
+C251,Talisman Advisors Pvt. Ltd., Staffing and Recruiting,11,7132
+C252,Courtyard by Marriott, Hospitality,10001,67769
+C253,ANZ, Banking,10001,558805
+C254,Deloitte Asia Pacific, Business Consulting and Services,10001,4904
+C255,LambdaTest, Software Development,201,19305
+C256,Infinity Solutions, IT Services and IT Consulting,201,7449
+C257,Primary Healthtech, Medical Equipment Manufacturing,11,1949
+C258,Tesco Technology, Retail,1001,13984
+C259,Huron, Business Consulting and Services,1001,107962

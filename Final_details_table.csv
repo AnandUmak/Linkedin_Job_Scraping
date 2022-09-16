@@ -1,0 +1,404 @@
+details_id,involvement,level,total_applicants
+D001,Full-time,Entry level,34
+D002,Full-time,Entry level,50
+D003,Full-time,Entry level,39
+D004,Full-time,Associate,65
+D005,Full-time,Entry level,52
+D006,Full-time,Associate,118
+D007,Full-time,Associate,14
+D008,Full-time,Entry level,164
+D009,Full-time,Mid-Senior level,4
+D010,Full-time,,18
+D011,Full-time,Associate,3
+D012,Full-time,Entry level,33
+D013,Full-time,Associate,12
+D014,Full-time,Associate,30
+D015,Full-time,Internship,64
+D016,Full-time,,31
+D017,Full-time,Entry level,163
+D018,Full-time,,10
+D019,Full-time,Mid-Senior level,148
+D020,Full-time,,19
+D021,Full-time,,46
+D022,Full-time,Entry level,99
+D023,Full-time,Mid-Senior level,22
+D024,Full-time,Internship,15
+D025,Full-time,Associate,113
+D026,Full-time,Internship,33
+D027,Full-time,Associate,197
+D028,Full-time,Associate,59
+D029,Full-time,Entry level,35
+D030,Full-time,Entry level,88
+D031,Contract,Associate,53
+D032,Full-time,Entry level,105
+D033,Full-time,Associate,5
+D034,Full-time,Associate,11
+D035,Full-time,Associate,10
+D036,Full-time,Associate,47
+D037,Full-time,Entry level,25
+D038,Full-time,Associate,7
+D039,Full-time,Director,30
+D040,Full-time,Associate,26
+D041,Full-time,Mid-Senior level,16
+D042,Full-time,Internship,1
+D043,Full-time,Entry level,79
+D044,Full-time,Entry level,56
+D045,Full-time,,35
+D046,Full-time,Executive,119
+D047,Full-time,Associate,2
+D048,Full-time,Entry level,26
+D049,Full-time,,9
+D050,Full-time,Entry level,59
+D051,Full-time,Internship,24
+D052,Full-time,Associate,89
+D053,Full-time,Entry level,36
+D054,Full-time,Entry level,95
+D055,Full-time,Associate,48
+D056,Full-time,Entry level,5
+D057,Full-time,Entry level,23
+D058,Full-time,Entry level,106
+D059,Full-time,Entry level,5
+D060,Full-time,Associate,36
+D061,Full-time,,102
+D062,Full-time,Entry level,58
+D063,Full-time,Associate,61
+D064,Full-time,Entry level,80
+D065,Full-time,,5
+D066,Full-time,,42
+D067,Full-time,Entry level,11
+D068,Full-time,Associate,143
+D069,Full-time,,66
+D070,Full-time,Associate,19
+D071,Full-time,Entry level,59
+D072,Full-time,Entry level,12
+D073,Full-time,Associate,9
+D074,Full-time,Associate,4
+D075,Full-time,Entry level,109
+D076,Full-time,,14
+D077,Full-time,Entry level,8
+D078,Full-time,Entry level,6
+D079,Full-time,Entry level,18
+D080,Full-time,Entry level,6
+D081,Full-time,Associate,183
+D082,Full-time,,30
+D083,Full-time,,138
+D084,Full-time,,28
+D085,Full-time,,9
+D086,Full-time,Entry level,24
+D087,Full-time,Entry level,41
+D088,Full-time,,137
+D089,Full-time,Entry level,35
+D090,Full-time,,77
+D091,Full-time,Associate,1
+D092,Full-time,Entry level,90
+D093,Full-time,Entry level,113
+D094,Full-time,Associate,21
+D095,Full-time,Entry level,12
+D096,Full-time,Associate,5
+D097,Full-time,Associate,10
+D098,Full-time,Associate,50
+D099,Full-time,Internship,8
+D100,Full-time,Entry level,13
+D101,Full-time,Entry level,149
+D102,Full-time,Associate,10
+D103,Full-time,Associate,3
+D104,Full-time,Associate,3
+D105,Full-time,Entry level,10
+D106,Full-time,Associate,12
+D107,Full-time,Entry level,2
+D108,Full-time,Associate,65
+D109,Full-time,,25
+D110,Full-time,Entry level,37
+D111,Full-time,Director,91
+D112,Full-time,Entry level,31
+D113,Full-time,,13
+D114,Full-time,,87
+D115,Full-time,Entry level,22
+D116,Full-time,Entry level,30
+D117,Full-time,Entry level,9
+D118,Full-time,Entry level,19
+D119,Full-time,Associate,11
+D120,Full-time,Entry level,173
+D121,Full-time,Associate,34
+D122,Full-time,Entry level,49
+D123,Full-time,Mid-Senior level,75
+D124,Full-time,Entry level,8
+D125,Full-time,Mid-Senior level,48
+D126,Full-time,Entry level,1
+D127,Full-time,Internship,130
+D128,Full-time,Entry level,20
+D129,Full-time,Mid-Senior level,7
+D130,Full-time,Associate,134
+D131,Full-time,,13
+D132,Full-time,Entry level,106
+D133,Full-time,Associate,37
+D134,Full-time,Associate,25
+D135,Full-time,Associate,10
+D136,Full-time,,4
+D137,Temporary ,Entry level,3
+D138,Full-time,Entry level,12
+D139,Full-time,Entry level,37
+D140,Full-time,Internship,38
+D141,Full-time,Entry level,7
+D142,Full-time,Associate,36
+D143,Full-time,Entry level,34
+D144,Full-time,Entry level,16
+D145,Full-time,Entry level,19
+D146,Full-time,Associate,97
+D147,Full-time,,76
+D148,Full-time,Associate,34
+D149,Full-time,Entry level,10
+D150,Full-time,Entry level,26
+D151,Full-time,Mid-Senior level,19
+D152,Full-time,Entry level,23
+D153,Full-time,Associate,17
+D154,Full-time,Associate,40
+D155,Full-time,Associate,2
+D156,Full-time,Entry level,22
+D157,Full-time,Entry level,170
+D158,Full-time,Associate,3
+D159,Full-time,Associate,59
+D160,Full-time,Executive,100
+D161,Full-time,Executive,51
+D162,Full-time,Associate,24
+D163,Full-time,,55
+D164,Full-time,Entry level,48
+D165,Full-time,,23
+D166,Contract,Mid-Senior level,7
+D167,Full-time,Associate,45
+D168,Full-time,Internship,34
+D169,Full-time,Entry level,9
+D170,Full-time,Entry level,56
+D171,Full-time,Entry level,125
+D172,Full-time,Entry level,126
+D173,Full-time,,7
+D174,Contract,Mid-Senior level,12
+D175,Full-time,Mid-Senior level,48
+D176,Full-time,Entry level,83
+D177,Full-time,,16
+D178,Full-time,Entry level,54
+D179,Contract,Entry level,149
+D180,Full-time,Associate,61
+D181,Full-time,Entry level,63
+D182,Full-time,Entry level,36
+D183,Full-time,Associate,52
+D184,Full-time,,5
+D185,Full-time,Entry level,9
+D186,Full-time,Associate,1
+D187,Full-time,Entry level,3
+D188,Full-time,,92
+D189,Full-time,,40
+D190,Full-time,,3
+D191,Full-time,Entry level,13
+D192,Full-time,,52
+D193,Full-time,Associate,47
+D194,Full-time,,7
+D195,Full-time,Mid-Senior level,58
+D196,Full-time,Entry level,35
+D197,Full-time,Associate,6
+D198,Full-time,Entry level,16
+D199,Full-time,,12
+D200,Full-time,,5
+D201,Full-time,Entry level,6
+D202,Full-time,Associate,11
+D203,Full-time,Internship,4
+D204,Full-time,Entry level,40
+D205,Full-time,Entry level,9
+D206,Full-time,Internship,6
+D207,Full-time,Internship,85
+D208,Full-time,Entry level,84
+D209,Full-time,Mid-Senior level,1
+D210,Full-time,Entry level,2
+D211,Full-time,Mid-Senior level,62
+D212,Full-time,Entry level,86
+D213,Full-time,Entry level,20
+D214,Full-time,Mid-Senior level,2
+D215,Full-time,Associate,7
+D216,Full-time,Associate,5
+D217,Full-time,Director,10
+D218,Full-time,Entry level,97
+D219,Full-time,,175
+D220,Full-time,Associate,11
+D221,Full-time,Associate,6
+D222,Full-time,Entry level,76
+D223,Full-time,Internship,34
+D224,Full-time,Associate,5
+D225,Full-time,,25
+D226,Full-time,Associate,13
+D227,Full-time,Mid-Senior level,9
+D228,Full-time,Associate,4
+D229,Full-time,Entry level,40
+D230,Contract,Mid-Senior level,4
+D231,Full-time,Associate,43
+D232,Full-time,,75
+D233,Full-time,Entry level,28
+D234,Full-time,Entry level,50
+D235,Full-time,Associate,22
+D236,Full-time,Associate,12
+D237,Full-time,Entry level,4
+D238,Full-time,Associate,8
+D239,Full-time,Entry level,3
+D240,Full-time,Associate,15
+D241,Full-time,Entry level,6
+D242,Full-time,,41
+D243,Full-time,Mid-Senior level,181
+D244,Full-time,Associate,3
+D245,Full-time,Entry level,30
+D246,Full-time,Associate,15
+D247,Full-time,Associate,3
+D248,Contract,Entry level,2
+D249,Full-time,Entry level,5
+D250,Contract,Entry level,1
+D251,Full-time,Associate,82
+D252,Full-time,Associate,42
+D253,Full-time,Entry level,63
+D254,Full-time,Internship,78
+D255,Full-time,Associate,54
+D256,Full-time,,15
+D257,Full-time,,22
+D258,Full-time,Mid-Senior level,31
+D259,Full-time,Entry level,4
+D260,Full-time,Associate,30
+D261,Full-time,,14
+D262,Full-time,Mid-Senior level,7
+D263,Full-time,Entry level,1
+D264,Full-time,Entry level,34
+D265,Full-time,Associate,16
+D266,Full-time,Entry level,98
+D267,Full-time,Associate,4
+D268,Full-time,,131
+D269,Full-time,,15
+D270,Full-time,Mid-Senior level,5
+D271,Full-time,Entry level,34
+D272,Contract,Mid-Senior level,7
+D273,Full-time,,98
+D274,Full-time,Internship,39
+D275,Full-time,Internship,7
+D276,Full-time,Entry level,6
+D277,Full-time,,26
+D278,Full-time,Entry level,7
+D279,Full-time,Associate,85
+D280,Full-time,Entry level,11
+D281,Full-time,Entry level,67
+D282,Full-time,Associate,56
+D283,Full-time,Mid-Senior level,14
+D284,Full-time,Associate,18
+D285,Full-time,Entry level,3
+D286,Full-time,Entry level,9
+D287,Full-time,Entry level,19
+D288,Full-time,Entry level,9
+D289,Full-time,Associate,33
+D290,Full-time,Associate,37
+D291,Full-time,Associate,41
+D292,Full-time,Associate,13
+D293,Full-time,Associate,9
+D294,Full-time,Entry level,16
+D295,Full-time,Mid-Senior level,156
+D296,Full-time,Entry level,104
+D297,Full-time,Associate,11
+D298,Full-time,Executive,13
+D299,Full-time,Associate,14
+D300,Contract,Mid-Senior level,12
+D301,Full-time,Entry level,103
+D302,Full-time,Associate,7
+D303,Full-time,Associate,26
+D304,Full-time,Entry level,6
+D305,Full-time,Entry level,22
+D306,Full-time,Entry level,74
+D307,Full-time,Associate,114
+D308,Full-time,Mid-Senior level,5
+D309,Full-time,Associate,16
+D310,Full-time,Associate,3
+D311,Full-time,Entry level,45
+D312,Full-time,Entry level,35
+D313,Full-time,Associate,67
+D314,Full-time,Associate,3
+D315,Full-time,Associate,48
+D316,Full-time,,8
+D317,Full-time,Entry level,14
+D318,Full-time,,41
+D319,Full-time,Associate,99
+D320,Full-time,,48
+D321,Full-time,,163
+D322,Full-time,,45
+D323,Full-time,,8
+D324,Full-time,Entry level,5
+D325,Full-time,Entry level,37
+D326,Full-time,Associate,6
+D327,Full-time,Associate,7
+D328,Full-time,Entry level,4
+D329,Full-time,Associate,6
+D330,Full-time,Mid-Senior level,20
+D331,Full-time,Entry level,17
+D332,Full-time,,5
+D333,Full-time,Entry level,43
+D334,Full-time,Mid-Senior level,67
+D335,Full-time,Associate,25
+D336,Full-time,Entry level,5
+D337,Contract,Mid-Senior level,17
+D338,Full-time,Entry level,12
+D339,Full-time,Associate,5
+D340,Contract,Associate,5
+D341,Full-time,,92
+D342,Full-time,Mid-Senior level,12
+D343,Full-time,Associate,13
+D344,Contract,Mid-Senior level,11
+D345,Full-time,,41
+D346,Full-time,Associate,7
+D347,Full-time,Entry level,12
+D348,Full-time,Mid-Senior level,149
+D349,Full-time,Associate,8
+D350,Full-time,Associate,44
+D351,Full-time,Associate,4
+D352,Full-time,Entry level,18
+D353,Full-time,Mid-Senior level,197
+D354,Full-time,Entry level,38
+D355,Full-time,Associate,11
+D356,Full-time,Associate,100
+D357,Full-time,Associate,149
+D358,Full-time,Associate,7
+D359,Full-time,Entry level,23
+D360,Full-time,Entry level,7
+D361,Full-time,Associate,102
+D362,Full-time,Mid-Senior level,47
+D363,Full-time,Entry level,51
+D364,Full-time,Entry level,46
+D365,Full-time,Entry level,55
+D366,Contract,Mid-Senior level,14
+D367,Full-time,Associate,5
+D368,Full-time,Entry level,15
+D369,Full-time,Entry level,5
+D370,Full-time,Associate,3
+D371,Full-time,Entry level,26
+D372,Full-time,Entry level,1
+D373,Temporary,Entry level,8
+D374,Full-time,,78
+D375,Full-time,Entry level,12
+D376,Full-time,Associate,4
+D377,Full-time,,58
+D378,Full-time,Entry level,13
+D379,Full-time,,32
+D380,Full-time,Mid-Senior level,26
+D381,Full-time,Entry level,48
+D382,Contract ,Mid-Senior level,7
+D383,Full-time,,88
+D384,Full-time,Associate,1
+D385,Full-time,,129
+D386,Full-time,Entry level,7
+D387,Full-time,Entry level,111
+D388,Full-time,Entry level,28
+D389,Full-time,Associate,114
+D390,Full-time,,9
+D391,Full-time,Entry level,46
+D392,Full-time,Entry level,14
+D393,Full-time,Entry level,22
+D394,Full-time,Mid-Senior level,2
+D395,Full-time,Internship,50
+D396,Full-time,Associate,108
+D397,Full-time,Associate,4
+D398,Full-time,Associate,1
+D399,Full-time,Executive,200
+D400,Full-time,,10
+D401,Full-time,,75
+D402,Full-time,Associate,36
+D403,Full-time,Associate,128
